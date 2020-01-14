@@ -1,0 +1,42 @@
+{
+  "name": "sweet-js-date",
+  "version": "0.0.1",
+  "description": "javascript persian date helper",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "keyword": [
+    "react",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Hadi AmirNahavandi",
+    "email": "nahavandi.hadi@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-jalaali": "^0.8.3"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  },
+  "homepage": "https://github.com/hdnvd/SweetJsDate",
+  "bugs": {
+    "url": "https://github.com/hdnvd/SweetJsDate/issues"
+  },
+  "contributors": [
+    {
+      "name": "Hadi AmirNahavandi",
+      "email": "nahavandi.hadi@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdnvd/SweetJsDate"
+  }
+}
